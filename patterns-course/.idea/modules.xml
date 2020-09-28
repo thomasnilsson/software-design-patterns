@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/interface-segregation/interface-segregation.iml" filepath="$PROJECT_DIR$/interface-segregation/interface-segregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liskov-substitution/liskov-substitution.iml" filepath="$PROJECT_DIR$/liskov-substitution/liskov-substitution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocp/ocp.iml" filepath="$PROJECT_DIR$/ocp/ocp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns-course.iml" filepath="$PROJECT_DIR$/patterns-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solid/solid.iml" filepath="$PROJECT_DIR$/solid/solid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

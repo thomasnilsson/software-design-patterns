@@ -1,0 +1,22 @@
+
+I
+java:S1612!",Replace this lambda with a method reference.(ñ¡¬ë8Ñö™°Í.
+N
+java:S1612%",Replace this lambda with a method reference.(Ûñ¼øÿÿÿÿ8Ñö™°Í.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Ûñ¼øÿÿÿÿ8Œ†ˆ°Í.
+N
+java:S1612",Replace this lambda with a method reference.(Ñ­ò«şÿÿÿÿ8€ÛÄ¯Í.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Õ›¼•şÿÿÿÿ8şŞÆ¯Í.
+I
+java:S1612)",Replace this lambda with a method reference.(ê ÂÆ8åÜ°Í.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïšäâ8ÆëÂ¯Í.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ê ÂÆ8‚”°Í.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ñ¡¬ë8í¯‡°Í.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(øÂñÓ8‹ÇŠ°Í.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(´ü»ˆ8ÅŒ™¯Í.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Õ›¼•şÿÿÿÿ8Ú™Š°Í.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(®‚¿Ìøÿÿÿÿ8Ñö™°Í.
+I
+java:S1612",Replace this lambda with a method reference.(Ïšäâ8ÆëÂ¯Í.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ­ò«şÿÿÿÿ8Š¯½¯Í.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(øÂñÓ8ì„Ç¯Í.
